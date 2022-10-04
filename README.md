@@ -1,0 +1,2 @@
+# repositorio Python
+ contiene apuntes
